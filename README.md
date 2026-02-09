@@ -140,7 +140,7 @@ plt.show()
 
 **Shiva – Data Analyst**
 
-📧 Email: *[(mailto:shivakumar110045@gmail.com)*
+📧 Email: *(shivakumar110045@gmail.com)*
 
 🐙 GitHub: * https://github.com/shiva-singh01 *
 
